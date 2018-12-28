@@ -1,0 +1,17 @@
+.todo {
+    display: flex;
+    justify-content: center;
+}
+
+.body {
+    background-color: #66ccff;
+}
+
+.listItem {
+    background-color: #66ccff;
+    border-radius: 3px;
+}
+
+.grey {
+    background-color: rgba(179, 179, 179, 0.329);
+}
